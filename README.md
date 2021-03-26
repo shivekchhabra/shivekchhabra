@@ -2,6 +2,26 @@
 
 <h3>Check me out on: <a href="https://www.shivekchhabra.com/"</a> click here</h3>
 
+<p>
+  <em>
+    Currently I am working as a <b>Data scientist - Applications Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> at Oracle Financials.
+  </em>
+ </p>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<em>
+  
+**A little about me:**
+
+- 👨 Graduated in 2019 from Amity University and was awarded the 2nd most prestigious award of Excellence in Knowledge Creation
+- 💼 Have 3 provisional patents and have been invited to the Rashtrapti Bhavan By Dr. Pranab Mukharjee for a mentoring summit
+- 💻 Owner of <a href="https://top.gg/bot/733030348346097766/"</a>PokeWod, a discord approved and Verified Bot.
+- 🖋️ Built a python library called <a href="https://pypi.org/project/ricebowl/"</a>Ricebowl. The library is aimed at helping existing and budding data scientists with quicker processing and modeling functions.
+- 💬 Looking out to collaborate with people on interesting projects!
+<br/> 
+</em>
+
 ### GitHub Stats
 <p align="center">
   <a href = "https://github.com/shivekchhabra">
