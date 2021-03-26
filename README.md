@@ -25,8 +25,8 @@
 
 - 👨 Graduated in 2019 from Amity University and was awarded the 2nd most prestigious award of Excellence in Knowledge Creation
 - 💼 Have 3 provisional patents and have been invited to the Rashtrapti Bhavan By Dr. Pranab Mukharjee for a mentoring summit
-- 💻 Owner of <a href="https://top.gg/bot/733030348346097766/"</a> PokeWod, a discord approved and Verified Bot.
-- 🖋️ Built a python library called <h3><a href="https://pypi.org/project/ricebowl/"</a> Ricebowl</h3>. The library is aimed at helping existing and budding data scientists with quicker processing and modeling functions.
+- 💻 Owner of PokeWod, a discord approved and Verified Bot.
+- 🖋️ Built a python library called Ricebowl. The library is aimed at helping existing and budding data scientists with quicker processing and modeling functions.
 - 💬 Looking out to collaborate with people on interesting projects!
 <br/> 
 </em>
