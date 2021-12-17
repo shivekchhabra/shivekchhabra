@@ -13,7 +13,7 @@
 
 <p>
   <em>
-    Currently I am a Student at <b>Simon Fraser University, Burnaby, BC, Canada</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> at Oracle Financials.
+    Currently I am a Student at <b>Simon Fraser University</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>, Burnaby, BC, Canada
   </em>
  </p>
 
