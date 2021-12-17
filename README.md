@@ -13,7 +13,7 @@
 
 <p>
   <em>
-    Currently I am working as a <b>Data scientist - Applications Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> at Oracle Financials.
+    Currently I am a Student at <b>Simon Fraser University, Burnaby, BC, Canada</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> at Oracle Financials.
   </em>
  </p>
 
@@ -23,6 +23,7 @@
   
 **A little about me:**
 
+- 💻 2 years of work experience in Data Science. (1 yr in startup and 1 yr in Oracle Financials)
 - 👨 Graduated in 2019 from Amity University and was awarded the 2nd most prestigious award of Excellence in Knowledge Creation
 - 💼 Have 3 provisional patents and have been invited to the Rashtrapti Bhavan By Dr. Pranab Mukharjee for a mentoring summit
 - 💻 Owner of PokeWod, a discord approved and Verified Bot.
