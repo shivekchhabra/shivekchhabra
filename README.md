@@ -25,9 +25,11 @@
 
 - 💻 2 years of work experience in Data Science. (1 yr in startup and 1 yr in Oracle Financials)
 - 👨 Graduated in 2019 from Amity University and was awarded the 2nd most prestigious award of Excellence in Knowledge Creation
-- 💼 Have 3 provisional patents and have been invited to the Rashtrapti Bhavan By Dr. Pranab Mukharjee for a mentoring summit
-- 💻 Owner of PokeWod, a discord approved and Verified Bot.
+- 💼 Have 5 provisional patents and have been invited to the Rashtrapti Bhavan By Dr. Pranab Mukharjee for a mentoring summit
+- 🌐 Owner of PokeWod, a discord approved and Verified Bot.
 - 🖋️ Built a python library called Ricebowl. The library is aimed at helping existing and budding data scientists with quicker processing and modeling functions.
+- 👨 Pursuing masters in computer science from Simon Fraser University
+- 💻 Internship at Amazon as a Software Developer Engineer
 - 💬 Looking out to collaborate with people on interesting projects!
 <br/> 
 </em>
