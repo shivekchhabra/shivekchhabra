@@ -27,7 +27,6 @@
 * __Key Skillset:__ Python programming, Data Analysis and Visualization, Machine Learning, and Cloud Migration/Deployment.
 * __Certifications:__ Stanford, IBM, and DeepLearning.AI Skill Badges: Linkedin: Python and Machine Learning, HackerRank: Gold Badge in Python
 * __Education:__ Masters in Computer Science from Simon Fraser University, Burnaby, BC, Canada (Sep2021 - Dec 2022.); Bachelors in Computer Science from                    Amity University, Noida, UP, India
-* __Visa Status:__ 3 yr Post Graduate Work Permit for pan Canada. Willing to relocate.
 <br/> 
 </em>
 
