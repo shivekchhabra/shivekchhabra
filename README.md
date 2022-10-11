@@ -33,9 +33,6 @@
 
 ### GitHub Stats
 <p align="center">
-  <a href = "https://github.com/shivekchhabra">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shivekchhabra&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
   [![Shivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivekchhabra)](https://github.com/shivekchhabra/github-readme-stats)
  </p>
  
