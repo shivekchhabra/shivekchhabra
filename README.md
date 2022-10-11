@@ -31,9 +31,9 @@
 </em>
 
 ### GitHub Stats
-<p align="center">
-  [![Shivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivekchhabra)](https://github.com/shivekchhabra/github-readme-stats)
- </p>
+
+[![Shivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivekchhabra)](https://github.com/shivekchhabra/github-readme-stats)
+
  
 ### Top Languages
 
