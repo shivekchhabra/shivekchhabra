@@ -37,4 +37,4 @@
  
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivekchhabra&hide=Jupyter Notebook)](https://github.com/shivekchhabra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivekchhabra&hide=jupyter)](https://github.com/shivekchhabra/github-readme-stats)
