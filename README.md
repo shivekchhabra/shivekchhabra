@@ -23,14 +23,11 @@
   
 **A little about me:**
 
-- 💻 2 years of work experience in Data Science. (1 yr in startup and 1 yr in Oracle Financials)
-- 👨 Graduated in 2019 from Amity University and was awarded the 2nd most prestigious award of Excellence in Knowledge Creation
-- 💼 Have 5 provisional patents and have been invited to the Rashtrapti Bhavan By Dr. Pranab Mukharjee for a mentoring summit
-- 🌐 Owner of PokeWod, a discord approved and Verified Bot.
-- 🖋️ Built a python library called Ricebowl. The library is aimed at helping existing and budding data scientists with quicker processing and modeling functions.
-- 👨 Pursuing masters in computer science from Simon Fraser University
-- 💻 Internship at Amazon as a Software Developer Engineer
-- 💬 Looking out to collaborate with people on interesting projects!
+* __Ex Oracle - Ex Amazon - 2+ years__ of development experience in big data, data science, and machine learning. 
+* __Key Skillset:__ Python programming, Data Analysis and Visualization, Machine Learning, and Cloud Migration/Deployment.
+* __Certifications:__ Stanford, IBM, and DeepLearning.AI Skill Badges: Linkedin: Python and Machine Learning, HackerRank: Gold Badge in Python
+* __Education:__ Masters in Computer Science from Simon Fraser University, Burnaby, BC, Canada (Sep2021 - Dec 2022.); Bachelors in Computer Science from                    Amity University, Noida, UP, India
+* __Visa Status:__ 3 yr Post Graduate Work Permit for pan Canada. Willing to relocate.
 <br/> 
 </em>
 
@@ -39,6 +36,7 @@
   <a href = "https://github.com/shivekchhabra">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shivekchhabra&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
+  [![Shivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivekchhabra)](https://github.com/shivekchhabra/github-readme-stats)
  </p>
  
 ### Top Languages
