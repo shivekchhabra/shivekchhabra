@@ -1,6 +1,6 @@
 ## Hi there, I'm [Shivek Chhabra](https://www.shivekchhabra.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
-<h3>Check me out on: <a href="https://www.shivekchhabra.com/"</a> click here</h3>
+<h3>Check me out on: <a href="https://www.shivekchhabra.me/"</a> click here</h3>
 
 <p align="center">
       <a href="https://in.linkedin.com/in/shivek-chhabra-204a25110">
