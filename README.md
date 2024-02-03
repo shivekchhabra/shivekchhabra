@@ -13,7 +13,7 @@
 
 <p>
   <em>
-    Currently I am a Student at <b>Simon Fraser University</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>, Burnaby, BC, Canada
+    Currently I am working as a machine learning engineer at <b>Sketchdeck.ai</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>, Calgary, AB, Canada
   </em>
  </p>
 
